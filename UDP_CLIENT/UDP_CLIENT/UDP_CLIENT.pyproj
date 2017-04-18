@@ -25,6 +25,8 @@
     <Compile Include="AE_methods.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="BG_Metodat.py" />
+    <Compile Include="LS_Metodat.py" />
     <Compile Include="UDP_CLIENT.py" />
   </ItemGroup>
   <PropertyGroup>
